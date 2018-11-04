@@ -1,0 +1,5 @@
+F:\GitHub\Work5\levenstein\library\bin\Debug\library.dll
+F:\GitHub\Work5\levenstein\library\bin\Debug\library.pdb
+F:\GitHub\Work5\levenstein\library\obj\Debug\library.csprojResolveAssemblyReference.cache
+F:\GitHub\Work5\levenstein\library\obj\Debug\library.dll
+F:\GitHub\Work5\levenstein\library\obj\Debug\library.pdb
